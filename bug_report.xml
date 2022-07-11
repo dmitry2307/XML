@@ -5,3 +5,4 @@
   <str2>click on the first page</str2>
   <expected_result>Normal app</expected_result>
   <actual_result>Crash app</actual_result>
+  <environment>GoogleChrome</environmet>
